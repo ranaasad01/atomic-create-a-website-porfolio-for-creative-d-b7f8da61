@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "work": "Trabajos",
+    "about": "Acerca de",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "cta": "Hablemos"
+  },
+  "footer": {
+    "tagline": "Creando identidades visuales audaces y experiencias digitales que se niegan a pasar desapercibidas.",
+    "navigation": "Navegación",
+    "getInTouch": "Ponte en Contacto",
+    "rights": "Todos los derechos reservados.",
+    "built": "Diseñado con intención. Construido con precisión."
+  }
+}

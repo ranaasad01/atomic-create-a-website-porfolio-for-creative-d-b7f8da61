@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "Home",
+    "work": "Work",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "cta": "Let's Talk"
+  },
+  "footer": {
+    "tagline": "Crafting bold visual identities and digital experiences that refuse to blend in.",
+    "navigation": "Navigation",
+    "getInTouch": "Get in Touch",
+    "rights": "All rights reserved.",
+    "built": "Designed with intention. Built with precision."
+  }
+}
